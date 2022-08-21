@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GIDM</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Charts</string>
+    <string name="title_notifications">Trends</string>
+    <string name="news">Noticias</string>
+    <string name="tweets">Tweets</string>
+    <string name="tipo">Tipo</string>
+    <string name="sort">Ordenar por</string>
+    <string name="recents">Recientes</string>
+    <string name="relevancy">Relevancia</string>
+    <string name="real">Real</string>
+    <string name="fake">Fake</string>
+    <string name="proportion">Proporción Real/Fake News</string>
+    <string name="evolution">Evolucion Término Búsqueda por Días</string>
+    <string name="label">Nº Tweets/dia</string>
+    <string name="tweets2Return">Nº de Tweets</string>
+    <string name="relevancyLink">relevancy</string>
+    <string name="recencyLink">recency</string>
+    <string name="term_ip">https://tfm-22.herokuapp.com/term</string>
+    <string name="trends_ip">https://tfm-22.herokuapp.com/trends</string>
+    <string name="counts_ip">https://tfm-22.herokuapp.com/counts</string>
+    <string name="charts_null">No existen datos para mostrar</string>
+    <string name="searching">La búsqueda puede tardar unos segundos \n\n
+        Espere, por favor...
+    </string>
+</resources>
